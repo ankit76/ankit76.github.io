@@ -1,1 +1,1 @@
-Homeapage hossted at ankit76.github.io
+Homeapage hosted at ankit76.github.io
