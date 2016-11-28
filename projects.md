@@ -15,7 +15,7 @@ This page contains links to reports and other material related to the research a
 * ## Course Projects
     *  Differential geometric methods in control: Gauge kinematics of deformable bodies - [Report](/assets/sc_report.pdf) \| [Presentation](/assets/sc_presentation.pdf).
     *  Special topics in particle physics (Advanced QFT): Superconductivity as a broken U(1) symmetry - [Report](/assets/ph806_report.pdf).
-    *  Advanced statistical mechanics: Study of scaling properties of surface growth - [Report](/assets/ep413_report) \| [Presentation](/assets/ep413_presentation)
+    *  Advanced statistical mechanics: Study of scaling properties of surface growth - [Report](/assets/ep413_report.pdf) \| [Presentation](/assets/ep413_presentation.pdf)
     *  Database and information systems : Movie database web application - [Infosheet](/assets/db_infosheet.pdf) \| [App (.war file to be deployed in Tomcat)](/assets/movies.war)
 
 
