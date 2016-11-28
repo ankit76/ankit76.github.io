@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Ankit Mahajan
+tagline:             ''
+description:         ''
+url:                 http://ankit76.github.io
+baseurl:             ''
+#paginate:            5
+
+pages_list:
+    CV: '/cv'
+    Projects: '/projects'
+
+# About/contact
+author:
+  name:              Ankit
+  url:               https://ankit76.github.io
+  email:             ankitmahajan76@gmail.com
+
+# Custom vars
+# version:             1.0.0
