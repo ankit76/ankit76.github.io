@@ -12,9 +12,11 @@ url:                 http://ankit76.github.io
 baseurl:             ''
 #paginate:            5
 
+
 pages_list:
-    CV: '/cv'
+    CV: 'assets/cv.pdf'
     Projects: '/projects'
+    Google scholar: 'https://scholar.google.com/citations?user=-uWUNYMAAAAJ&hl=en'
 
 # About/contact
 author:

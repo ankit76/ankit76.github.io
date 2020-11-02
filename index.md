@@ -3,5 +3,7 @@ layout: page
 title: About
 ---
 
-I am a senior undergrad in the physics department at IIT Bombay. I have a minor in computer science. I am primarily interested in theoretical and computational electronic structure theory. I have previously dabbled in nonlinear dynamics. My other interests include quantum computing and molecular dynamics. All of my research reports and key course project reports can be found on the [projects page](/projects).
+I am a graduate student in chemical physics at University of Colorado, Boulder. I am interested in developing efficient algorithms for accurate simulations of electronic systems with strong interactions. I did my undergraduate studies at IIT Bombay, majoring in physics with a minor in computer science. During undergrad, I dabbled in nonlinear dynamics of potentials in neurons and quantum nuclear dynamics. Details of my research can be found on the [projects](/projects) page. 
+
+Besides electronic structure, I also like to read about differential geometry and quantum computing. I increasingly find myself interested in social sciences, particularly in anthropology and cognitive psychology. Since moving to Boulder, I have started biking more, and I like it a lot!  
 
