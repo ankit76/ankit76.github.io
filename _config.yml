@@ -14,7 +14,7 @@ baseurl:             ''
 
 
 pages_list:
-    CV: 'assets/cv.pdf'
+    CV: '/assets/cv.pdf'
     Projects: '/projects'
     Google scholar: 'https://scholar.google.com/citations?user=-uWUNYMAAAAJ&hl=en'
 
