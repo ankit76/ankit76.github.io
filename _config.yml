@@ -16,6 +16,7 @@ baseurl:             ''
 pages_list:
     CV: '/assets/cv.pdf'
     Projects: '/projects'
+    Misc: '/misc'
     Google scholar: 'https://scholar.google.com/citations?user=-uWUNYMAAAAJ&hl=en'
 
 # About/contact
