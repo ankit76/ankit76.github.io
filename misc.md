@@ -9,6 +9,8 @@ title: Misc
 
 * ## Talks
 
+   * [Quantum Monte Carlo approaches for strongly correlated systems](https://slides.com/ankitmahajan/afqmc_trials/fullscreen)
+   
    * [Quantum spin liquid state in iridates](https://slides.com/ankitmahajan/spin-liquid-state-in/fullscreen)
 
    * [Accurate trial wave functions in AFQMC](https://slides.com/ankitmahajan/deck-8df395/fullscreen)
