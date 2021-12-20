@@ -22,7 +22,7 @@ My research in the [Sharma group](https://www.colorado.edu/lab/sharmagroup/) has
 
 
 
-<a name="symm"></a>[1] Mahajan, A. and Sharma, S., 2019. Symmetry-projected Jastrow mean-field wave function in variational Monte Carlo. [The Journal of Physical Chemistry A, 123(17)](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.9b01583), [arxiv:1902.07690](arXiv:1902.07690).
+<a name="symm"></a>[1] Mahajan, A. and Sharma, S., 2019. Symmetry-projected Jastrow mean-field wave function in variational Monte Carlo. [The Journal of Physical Chemistry A, 123(17)](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.9b01583), [arxiv:1902.07690](https://arxiv.org/abs/1902.07690).
 
 [2] Sabzevari, I., Mahajan, A. and Sharma, S., 2020. An accelerated linear method for optimizing non-linear wavefunctions in variational Monte Carlo. [The Journal of Chemical Physics, 152(2)](https://aip.scitation.org/doi/abs/10.1063/1.5125803), [arXiv:1908.04423](https://arxiv.org/abs/1908.04423).
 
