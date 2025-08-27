@@ -15,7 +15,7 @@ title: About
 
 <img src="/assets/images/profile.jpg" alt="Ankit Mahajan" style="float: left; margin: 1em 1em 0em 0em; border-radius: 10px; width: 300px;">
 
-I am a postdoc in the [Reichman group](https://reichmangroup.chem.columbia.edu/) at Columbia University. My research focuses on studying the structure and dynamics of many-body quantum systems using computational techniques. I work on quantum Monte Carlo methods for *ab initio* electronic structure calculations, particularly in strongly correlated systems. I also study electron-phonon interactions in condensed phases, exploring spectral and transport properties of polarons. I enjoy writing differentiable and performant code (in JAX 😃).
+I am a postdoctoral researcher in the [Reichman group](https://reichmangroup.chem.columbia.edu/) at Columbia University, using computational simulations to uncover the properties of complex quantum systems. My research employs quantum Monte Carlo techniques to perform *ab initio* electronic structure calculations, particularly for materials with strongly correlations. A significant part of my work also involves studying how electrons interact with lattice vibrations in condensed matter, focusing on understanding spectroscopic and transport properties of polarons.  
 
 Current research areas include:
 
@@ -43,6 +43,8 @@ Publications can be found on [Google Scholar](https://scholar.google.com/citatio
 -   **Too Fast for Spin Flipping: Absence of Chirality-Induced Spin Selectivity in Coherent Electron Transport through Single-Molecule Junctions** [Journal website](https://pubs.acs.org/doi/full/10.1021/jacs.5c08517)
 
 ## Software & Code
+
+I enjoy writing differentiable and performant code (in JAX 😃).
 
 -   [ad_afqmc](https://github.com/ankit76/ad_afqmc): End-to-end differentiable Auxiliary Field Quantum Monte Carlo
 -   [nn_eph](https://github.com/ankit76/nn_eph): Neural quantum states for electron-phonon interactions
