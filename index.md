@@ -15,7 +15,7 @@ title: About
 
 <img src="/assets/images/profile.jpg" alt="Ankit Mahajan" style="float: left; margin: 1em 1em 0em 0em; border-radius: 10px; width: 300px;">
 
-I am a postdoctoral researcher in the [Reichman group](https://reichmangroup.chem.columbia.edu/) at Columbia University, using computational simulations to uncover the properties of complex quantum systems. My research employs quantum Monte Carlo techniques to perform *ab initio* electronic structure calculations, particularly for materials with strongly correlations. A significant part of my work also involves studying how electrons interact with lattice vibrations in condensed matter, focusing on understanding spectroscopic and transport properties of polarons.  
+I am a postdoctoral researcher in the [Reichman group](https://reichmangroup.chem.columbia.edu/) at Columbia University, using computational simulations to uncover the properties of correlated quantum systems. My research employs quantum Monte Carlo techniques to perform *ab initio* electronic structure calculations, particularly for systems with strong correlations. A significant part of my work also involves studying how electrons interact with lattice vibrations in condensed matter, focusing on understanding spectroscopic and transport properties of polarons.  
 
 Current research areas include:
 
