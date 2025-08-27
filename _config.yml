@@ -14,7 +14,7 @@ baseurl:             ''
 
 
 pages_list:
-    Projects: '/projects'
+#    Projects: '/projects'
     Misc: '/misc'
     Google scholar: 'https://scholar.google.com/citations?user=-uWUNYMAAAAJ&hl=en'
 

@@ -3,11 +3,16 @@ layout: page
 title: Misc
 ---
 
-* ## Code
+Samples from the Hubbard model ground state:
 
-     Most of the QMC code I have contributed to can be found on [here](https://github.com/sanshar/VMC/tree/master). The scripts and input files used in the calculations reported in my papers are also available on [this github repo](https://github.com/Sharma-Group/Paper-Calculations).
+   weak interactions             | strong interactions
+   :----------------------------:|:-------------------------------:
+   ![locu1](/assets/loc_u1.gif)  | ![locu10](/assets/loc_u10.gif)
+   :----------------------------:|:-------------------------------:
+   ![canu1](/assets/can_u1.gif)  | ![canu10](/assets/can_u10.gif)
 
 * ## Talks
+   * [Structure and dynamics of electron-phonon coupled systems using neural quantum states](https://slides.com/ankitmahajan/nn_eph/fullscreen)
 
    * [Quantum Monte Carlo approaches for strongly correlated systems](https://slides.com/ankitmahajan/afqmc_trials/fullscreen)
    
@@ -30,6 +35,4 @@ title: Misc
    * [A jupyter notebook](https://github.com/Sharma-Group/onboarding/blob/master/tutorials/hubbard_dmrg/hubbard_dmrg.ipynb) with simple code for doing DMRG on a small Hubbard chain with accompanying notes 
 
    * Some notes on wavelets in a [jupyter notebook](https://github.com/jamesETsmith/SharmaGroup/blob/master/groupmeetings_and_notes/wavelets/wavelets.ipynb) and a [mathematica notebook](https://github.com/jamesETsmith/SharmaGroup/blob/master/groupmeetings_and_notes/wavelets/wavelets.nb)
-
-   * [A mathematica tutorial](https://github.com/jamesETsmith/SharmaGroup/blob/master/groupmeetings_and_notes/mathematicaTutorial/mathematicaTutorial.nb)
 
