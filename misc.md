@@ -30,7 +30,7 @@ Samples from the Hubbard model ground state:
 
    * [Nonlinear dynamics of Hodgkin-Huxley neurons](/assets/slp_presentation.pdf)
 
-* ## Some tutorials I made:
+* ## Some tutorials:
 
    * [A jupyter notebook](https://github.com/Sharma-Group/onboarding/blob/master/tutorials/hubbard_dmrg/hubbard_dmrg.ipynb) with simple code for doing DMRG on a small Hubbard chain with accompanying notes 
 
