@@ -3,14 +3,6 @@ layout: page
 title: Misc
 ---
 
-Samples from the Hubbard model ground state:
-
-   weak interactions             | strong interactions
-   :----------------------------:|:-------------------------------:
-   ![locu1](/assets/loc_u1.gif)  | ![locu10](/assets/loc_u10.gif)
-   :----------------------------:|:-------------------------------:
-   ![canu1](/assets/can_u1.gif)  | ![canu10](/assets/can_u10.gif)
-
 * ## Talks
    * [Structure and dynamics of electron-phonon coupled systems using neural quantum states](https://slides.com/ankitmahajan/nn_eph/fullscreen)
 
@@ -26,9 +18,6 @@ Samples from the Hubbard model ground state:
 
    * [Correlations and symmetry in mean-field wavefunctions](https://slides.com/ankitmahajan/deck/fullscreen)
 
-   * [Extrapolation techniques to improve the scaling of electronic structure](/assets/msp_presentation2.pdf)
-
-   * [Nonlinear dynamics of Hodgkin-Huxley neurons](/assets/slp_presentation.pdf)
 
 * ## Some tutorials:
 
