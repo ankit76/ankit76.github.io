@@ -4,18 +4,40 @@ title: About
 ---
 
 <style>
-@media (max-width: 600px) {
-  img[alt="Ankit Mahajan"] {
-    float: none !important;
-    display: block;
-    margin: 0 auto 1em auto !important;
+.about-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  margin-bottom: 1rem;
+}
+
+.about-photo {
+  width: 300px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.about-bio > :last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width: 56em) {
+  .about-intro {
+    grid-template-columns: 300px minmax(0, 1fr);
   }
 }
 </style>
 
-<img src="/assets/images/profile.jpg" alt="Ankit Mahajan" style="float: left; margin: 1em 1em 0em 0em; border-radius: 10px; width: 300px;">
+<div class="about-intro">
+  <img class="about-photo" src="/assets/images/profile.jpg" alt="Ankit Mahajan">
+  <div class="about-bio" markdown="1">
 
-I am an Associate research scientist at the [Flatiron Institute](https://www.simonsfoundation.org/people/ankit-mahajan/) jointly appointed between the Center for Computational Quantum Physics ([CCQ]()) and the Initiative for Computational Catalysis ([ICC]()). I develop numerical approaches to tackle quantum many-body problems in strongly correlated materials and catalysis, with a particular focus on quantum Monte Carlo methods.
+I am an Associate research scientist at the [Flatiron Institute](https://www.simonsfoundation.org/people/ankit-mahajan/) jointly appointed between the Center for Computational Quantum Physics ([CCQ](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/)) and the Initiative for Computational Catalysis ([ICC](https://www.simonsfoundation.org/flatiron/initiative-for-computational-catalysis/)). I develop numerical approaches to tackle quantum many-body problems in strongly correlated materials and catalysis, with a particular focus on quantum Monte Carlo methods.
+
+  </div>
+</div>
 
 Current research areas include:
 
@@ -48,4 +70,5 @@ I enjoy writing differentiable and performant code. Here are some examples:
 If you are a graduate student interested in working with me, you can apply to postdoctoral or predoctoral positions at [ICC](https://www.simonsfoundation.org/flatiron/initiative-for-computational-catalysis/) or [CCQ](https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccq). I am happy to discuss potential research opportunities and collaborations.
 
 **Email:** ankitmahajan76 [at] gmail.com
+
 **GitHub:** [ankit76](https://github.com/ankit76)
